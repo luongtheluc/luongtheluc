@@ -1,5 +1,4 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/luongtheluc1306"><img src="https://api.daily.dev/devcards/v2/L1XPWAuIFRmynh90wowjO.png?r=blh&type=wide" width="652" alt="Lương Trần's Dev Card"/></a>
 
 **luongtheluc/luongtheluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
